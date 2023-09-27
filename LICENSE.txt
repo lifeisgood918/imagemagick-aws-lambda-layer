@@ -10,7 +10,7 @@ For information about the licenses for the libraries included visit:
 - libtiff - http://www.libtiff.org/misc.html
 - libwebp - https://developers.google.com/speed/webp/
 
---
+-
 
 These Scripts are Copyright 2023 Chris Schuld (chris@chrisschuld.com)
 
